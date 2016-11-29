@@ -5,7 +5,7 @@ Objective:
 	Get the root and then the flag.
 
 Presented as demo on
-	- 20161127_ST3_Telkom (xathrya)
+- 20161127_ST3_Telkom (xathrya)
 
 Writeup
-	- id_xathrya_sokar.txt
+- id_xathrya_sokar.txt
